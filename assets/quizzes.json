@@ -1,0 +1,98 @@
+{
+  "History": [
+    { "question": "In what year did the Titanic sink?", "answer": "1912" },
+    { "question": "Who was the first President of the United States?", "answer": "George Washington" },
+    { "question": "What country did Germany invade to start WWII?", "answer": "Poland" },
+    { "question": "Who built the Pyramids of Giza?", "answer": "The Ancient Egyptians" },
+    { "question": "What year did the Berlin Wall fall?", "answer": "1989" },
+    { "question": "Who discovered America?", "answer": "Christopher Columbus (for Europeans)" },
+    { "question": "In what year did Indonesia proclaim its independence?", "answer": "1945" },
+    { "question": "What was the name of the ship that brought the Pilgrims to America?", "answer": "The Mayflower" },
+    { "question": "Who was the first emperor of Rome?", "answer": "Augustus" },
+    { "question": "What was the longest war in history?", "answer": "The Reconquista (781 years)" }
+  ],
+  "Islamic Religion": [
+    { "question": "What is the holy book of Islam?", "answer": "The Qur'an" },
+    { "question": "How many pillars of Islam are there?", "answer": "Five" },
+    { "question": "What is the name of the Prophet of Islam?", "answer": "Muhammad (PBUH)" },
+    { "question": "In what city was the Prophet Muhammad born?", "answer": "Mecca" },
+    { "question": "What is the month of fasting called?", "answer": "Ramadan" },
+    { "question": "What is the direction of prayer (Qibla)?", "answer": "The Kaaba in Mecca" },
+    { "question": "What is the Islamic declaration of faith called?", "answer": "Shahada" },
+    { "question": "What is the charity pillar of Islam called?", "answer": "Zakat" },
+    { "question": "What is the pilgrimage to Mecca called?", "answer": "Hajj" },
+    { "question": "How many names does Allah have (Asma-ul Husna)?", "answer": "99" }
+  ],
+  "Geography": [
+    { "question": "What is the longest river in the world?", "answer": "The Nile River" },
+    { "question": "What is the capital of Japan?", "answer": "Tokyo" },
+    { "question": "What is the highest mountain in the world?", "answer": "Mount Everest" },
+    { "question": "What is the largest desert in the world?", "answer": "Antarctica" },
+    { "question": "What country has the largest population?", "answer": "India" },
+    { "question": "What is the name of the largest ocean?", "answer": "The Pacific Ocean" },
+    { "question": "What continent is the country of Spain in?", "answer": "Europe" },
+    { "question": "What is the capital of Australia?", "answer": "Canberra" },
+    { "question": "What is the largest island in the world?", "answer": "Greenland" },
+    { "question": "What country is the Eiffel Tower in?", "answer": "France" }
+  ],
+  "Movies": [
+    { "question": "Who directed the movie 'Parasite'?", "answer": "Bong Joon-ho" },
+    { "question": "What is the name of the main character in 'The Matrix'?", "answer": "Neo" },
+    { "question": "What studio created 'Toy Story'?", "answer": "Pixar" },
+    { "question": "What is the highest-grossing film of all time (unadjusted for inflation)?", "answer": "Avatar (2009)" },
+    { "question": "Who played Iron Man in the Marvel movies?", "answer": "Robert Downey Jr." },
+    { "question": "What is the name of the wizarding school in 'Harry Potter'?", "answer": "Hogwarts" },
+    { "question": "In 'Star Wars', what is the name of Luke Skywalker's father?", "answer": "Darth Vader (Anakin Skywalker)" },
+    { "question": "What is the name of the fictional African country in 'Black Panther'?", "answer": "Wakanda" },
+    { "question": "What movie won the first-ever Oscar for Best Animated Feature?", "answer": "Shrek (2001)" },
+    { "question": "What is the name of the clown villain in 'Batman'?", "answer": "The Joker" }
+  ],
+  "Music": [
+    { "question": "Who is known as the 'King of Pop'?", "answer": "Michael Jackson" },
+    { "question": "What band was Freddie Mercury the lead singer of?", "answer": "Queen" },
+    { "question": "How many members are in the K-Pop group BTS?", "answer": "Seven" },
+    { "question": "What instrument has 88 keys?", "answer": "A piano" },
+    { "question": "Who sang the hit song 'Someone Like You'?", "answer": "Adele" },
+    { "question": "What artist released the album 'Folklore' in 2020?", "answer": "Taylor Swift" },
+    { "question": "What was The Beatles' first hit song in America?", "answer": "I Want to Hold Your Hand" },
+    { "question": "What is the name of Beyoncé's 2016 visual album?", "answer": "Lemonade" },
+    { "question": "What genre of music originated in Jamaica?", "answer": "Reggae" },
+    { "question": "Who is the lead singer of the band Coldplay?", "answer": "Chris Martin" }
+  ],
+  "Sports": [
+    { "question": "How many players are on a soccer team on the field?", "answer": "11" },
+    { "question": "What sport is Michael Jordan famous for?", "answer": "Basketball" },
+    { "question": "In what country did the Olympics originate?", "answer": "Greece" },
+    { "question": "What is the name of the major tennis tournament held in England?", "answer": "Wimbledon" },
+    { "question": "Who won the 2022 FIFA World Cup?", "answer": "Argentina" },
+    { "question": "What is a 'strikeout' in baseball?", "answer": "When a batter gets three strikes" },
+    { "question": "What sport uses a 'shuttlecock'?", "answer": "Badminton" },
+    { "question": "What is the 'Super Bowl' in American sports?", "answer": "The championship game of the NFL" },
+    { "question": "How many rings are in the Olympic logo?", "answer": "Five" },
+    { "question": "Who is the fastest man in the world (100m record holder)?", "answer": "Usain Bolt" }
+  ],
+  "Science": [
+    { "question": "What is the powerhouse of the cell?", "answer": "Mitochondria" },
+    { "question": "What is the chemical symbol for Gold?", "answer": "Au" },
+    { "question": "What planet is known as the Red Planet?", "answer": "Mars" },
+    { "question": "What is the process by which plants make their own food?", "answer": "Photosynthesis" },
+    { "question": "What force keeps us on the ground?", "answer": "Gravity" },
+    { "question": "What is the chemical formula for water?", "answer": "H2O" },
+    { "question": "What is the largest planet in our solar system?", "answer": "Jupiter" },
+    { "question": "What gas do humans breathe out?", "answer": "Carbon Dioxide (CO2)" },
+    { "question": "What is the speed of light?", "answer": "Approx. 299,792 km/s" },
+    { "question": "What is the hardest natural substance on Earth?", "answer": "Diamond" }
+  ],
+  "Technology": [
+    { "question": "What does 'CPU' stand for?", "answer": "Central Processing Unit" },
+    { "question": "What does 'RAM' stand for?", "answer": "Random Access Memory" },
+    { "question": "Who is the co-founder of Microsoft?", "answer": "Bill Gates" },
+    { "question": "What company created the iPhone?", "answer": "Apple" },
+    { "question": "What does 'HTTP' stand for in a web address?", "answer": "Hypertext Transfer Protocol" },
+    { "question": "What is the name of Google's mobile operating system?", "answer": "Android" },
+    { "question": "What does 'AI' stand for?", "answer": "Artificial Intelligence" },
+    { "question": "What is the main circuit board in a computer called?", "answer": "Motherboard" },
+    { "question": "What does 'URL' stand for?", "answer": "Uniform Resource Locator" },
+    { "question": "In what year was the first email sent?", "answer": "1971" }
+  ]
+}

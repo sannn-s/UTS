@@ -1,0 +1,36 @@
+[
+  {
+    "name": "History",
+    "icon": "history"
+  },
+  {
+    "name": "Islamic Religion",
+    "icon": "brightness_2_outlined"
+  },
+  {
+    "name": "Geography",
+    "icon": "public"
+  },
+  {
+    "name": "Movies",
+    "icon": "movie_outlined"
+  },
+  {
+    "name": "Music",
+    "icon": "music_note_outlined"
+  },
+  {
+    "name": "Sports",
+    "icon": "sports_soccer_outlined"
+  },
+  {
+    "name": "Science",
+    "icon": "science_outlined"
+  },
+  {
+    "name": "Technology",
+    "icon": "computer"
+  }
+]
+
+

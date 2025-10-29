@@ -1,0 +1,36 @@
+name: funquiz_apps
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  # 'sdk' harus di-indentasi (menjorok ke dalam)
+  sdk: ^3.9.2
+
+dependencies:
+  # 'flutter' dan 'cupertino_icons' harus di-indentasi
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.3 # Untuk menyimpan data profil
+  flip_card: ^0.7.0         # Untuk animasi kartu flip
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  # 'flutter_test' dan 'flutter_lints' harus di-indentasi
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# Bagian ini adalah 'flutter'
+flutter:
+  # 'uses-material-design' harus di-indentasi di dalam 'flutter'
+  uses-material-design: true
+
+  # 'assets' juga harus di-indentasi di dalam 'flutter'
+  assets:
+    # Setiap file asset harus diawali dengan tanda '-' dan di-indentasi
+    - assets/categories.json
+    - assets/quizzes.json
